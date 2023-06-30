@@ -1,11 +1,11 @@
-About r-superpower
-==================
+About r-superpower-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-superpower-feedstock/blob/main/LICENSE.txt)
 
 Home: https://aaroncaldwell.us/SuperpowerBook/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-superpower-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to perform simulations of ANOVA designs of up to three factors. Calculates the observed power and average observed effect size for all main effects and interactions in the ANOVA, and all simple comparisons between conditions. Includes functions for analytic power calculations and additional helper functions that compute effect sizes for ANOVA designs, observed error rates in the simulations, and functions to plot power curves. Please see Lakens, D., & Caldwell, A. R. (2021). "Simulation-Based Power Analysis for Factorial Analysis of Variance Designs". <doi:10.1177/2515245920951503>.
 
