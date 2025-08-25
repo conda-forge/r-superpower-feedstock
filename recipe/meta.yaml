@@ -1,4 +1,4 @@
-{% set version = "0.2.4" %}
+{% set version = "0.2.4.1" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/Superpower_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/Superpower/Superpower_{{ version }}.tar.gz
-  sha256: 6e26c4fbf586930371d724d5bbae2cdfb44f51cd832030323c15364e026db372
+  sha256: 71728adb4116c6b8a9080b48354336271a9440e5b108ff19aae9f5218727bde5
 
 build:
   number: 0
